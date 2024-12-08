@@ -34,6 +34,15 @@
 
             #endregion
 
+            #region Q3)Write C# program that Perform a simple arithmetic operation with floating-point numbers And mention what will happen
+
+            //float Number1 = 55.5f;
+            //float Number2 = 33.3f;
+
+            //Console.WriteLine("Result is "+ (Number1+Number2));
+
+            #endregion
+
         }
     }
 }

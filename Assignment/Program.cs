@@ -50,6 +50,20 @@
 
             #endregion
 
+            #region Q5)Write C# program that Assigning one value type variable to another and modifying the value of one variable and mention what will happen
+            //int x = 5;
+            //int y = 10;
+            //y = x;
+            //x = 8;
+            //Console.WriteLine(x);// 8
+            //Console.WriteLine(y);// 5
+            ///*
+            // * int is a value type data type, so the variable remains in the stack memory.
+            // * Each variable has its own space, and when we assigned y = x,
+            // * only the value of x was copied to the other variable.*/
+
+            #endregion
+
         }
     }
 }

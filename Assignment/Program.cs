@@ -43,6 +43,13 @@
 
             #endregion
 
+            #region Q4) Write C# program that Extract a substring from a given string.
+            //String str = "Hello, World";
+            //String str2= str.Substring(0, 7);
+            //Console.WriteLine(str2);
+
+            #endregion
+
         }
     }
 }

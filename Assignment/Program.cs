@@ -85,7 +85,17 @@ namespace Assignment
             //// When we assigned p2 = p1, both references point to the same object.
             #endregion
 
+            #region Q7) Write C# program that take two string variables and print them as one variable 
+            //Console.WriteLine("Enter the first String");
+            //string userInput = Console.ReadLine();
+            //Console.WriteLine("Enter the Second String");
+            //string userInput2 = Console.ReadLine();
+            //String result = userInput + userInput2;
+            //Console.WriteLine(result);
 
+
+
+            #endregion
         }
     }
 }

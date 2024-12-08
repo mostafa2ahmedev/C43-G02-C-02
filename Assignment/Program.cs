@@ -96,6 +96,16 @@ namespace Assignment
 
 
             #endregion
+
+
+            #region Q8) Which of the following statements is correct about the C#.NET code snippet given below?
+            //int d;
+            //d = Convert.ToInt32(!(30 < 20));
+
+            //Console.WriteLine(d);
+            //// A value 1 will be assigned to d.
+            #endregion
+
         }
     }
 }

@@ -1,5 +1,13 @@
-﻿namespace Assignment
+﻿using System.Security.Cryptography.X509Certificates;
+
+namespace Assignment
 {
+     class Point { 
+
+       public int X { get; set; }
+       public int y { get; set; }
+    }
+
     internal class Program
     {
         static void Main(string[] args)
@@ -63,6 +71,20 @@
             // * only the value of x was copied to the other variable.*/
 
             #endregion
+
+            #region Q6) Write C# program that Assigning one reference type variable to another and modifying the object through one variable and mention what will happen
+
+            //Point p1=new Point();
+            //Point p2 = new Point();
+
+            //p2 = p1;
+            //Console.WriteLine(p1.X);
+            //// A class is a reference type.
+            //// First, p1 and p2 references are allocated on the stack, each occupying 4 bytes to hold the addresses
+            //// of the actual data objects in the heap.
+            //// When we assigned p2 = p1, both references point to the same object.
+            #endregion
+
 
         }
     }

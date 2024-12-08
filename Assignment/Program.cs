@@ -19,6 +19,20 @@
             //}
             #endregion
 
+            #region Q2) Write C# program that converts a string to an integer, but the string contains non-numeric characters. And mention what will happen 
+
+            //string userInput = Console.ReadLine();
+
+            //if (int.TryParse(userInput, out int result))
+            //{
+            //    Console.WriteLine("The integer is: " + result);
+            //}
+            //else
+            //{
+            //    Console.WriteLine("The string contains non-numeric characters ");
+            //}
+
+            #endregion
 
         }
     }
